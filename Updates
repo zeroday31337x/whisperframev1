@@ -9,3 +9,17 @@ now is at 78%. should be working within a week!
 if your interested in working with us or want to 
 invest we are accepting submissions! please
 email me at justen@zeroday3.com thank you!
+
+
+update 05/6/2025
+we now have a WhisperVM v1 Virtual Processor = Fully Operational
+this is the first frame:
+Executes conditional logic
+	•	Supports jumps
+	•	Prints output from memory
+	•	Self-updates pixel registers
+https://github.com/zeroday31337x/whisperframev1/commit/5dae5c4e2abf567aef864b89d68ff48226da2dce
+goal: a fully functional operating system running
+on a virtualmachine all in RAM from images! 
+ETA: 5 days! 
+changing how data and code is stored and ran!
